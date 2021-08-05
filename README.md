@@ -1,7 +1,7 @@
 # Vectice-Examples
 A set of examples for using Vectice.com software. The notebooks are seperated into two categories, being either Vanilla or MLflow. Vanilla notebooks use the Vectice App and SDK without any third party integrations. Whereas, MLflow uses the MLflow integration offered by Vectice. In the future, more integration examples will be added.
 
-The Vectice SDK documentation can be found [here](https://storage.googleapis.com/sdk-documentation/sdk/index.html)
+The Vectice SDK documentation can be found [here](https://doc.vectice.com/)
 
 - [Getting Started](#getting-started)
 - [Integrations](#integrations) 
